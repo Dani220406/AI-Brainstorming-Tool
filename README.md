@@ -9,3 +9,5 @@ Vi sono due diverse modalità di esecuzione del programma:
 
 Per informazioni riguardo il setup completo dell'istanza e di come far cominciare l'esecuzione, fare riferimento al manuale allegato in formato PPT:
 https://github.com/Dani220406/AI-Brainstorming-Tool/blob/main/Brainstorming%20AI%20-%20Manuale.pptx
+
+Nota: Consiglio di scaricare la repositori in una cartella del desktop e da lì procedere con il seguire il manuale, motivo per cui non ho allegato un link ad una demo live del progetto (il progetto non era stato realizzato per essere pubblicato su Github)
