@@ -1,5 +1,11 @@
 # AI-Brainstorming-Tool
 Progetto per il corso: Agenti Intelligenti e Machine learning by Aitho 2024/2025 del DMI UNICT.
 
-Per informazioni riguardo il setup completo dell'istanza e di come far cominciare l'esecuzione, fare riferimento al manuale allegato in formato PDF:
+Il progetto consiste nella realizzazione di una serie di Agenti Intelligenti, caratterizzati da differenti personalità, che instaurano una conversazione fra di loro e con l'utente in modalità brainstorming rispetto ad un prompt iniziale che l'utente scrive.
+
+Vi sono due diverse modalità di esecuzione del programma:
+1) Direttamente da Terminale (Versione Lite)
+2) Tramite Web con la piattaforma Streamlit (Versione Completa con GUI)
+
+Per informazioni riguardo il setup completo dell'istanza e di come far cominciare l'esecuzione, fare riferimento al manuale allegato in formato PPT:
 https://github.com/Dani220406/AI-Brainstorming-Tool/blob/main/Brainstorming%20AI%20-%20Manuale.pptx
