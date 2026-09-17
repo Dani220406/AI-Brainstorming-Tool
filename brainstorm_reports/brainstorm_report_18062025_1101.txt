@@ -1,0 +1,57 @@
+Turno 1:
+
+  Utente:
+    Una ciabatta a motore
+
+
+
+Turno 2:
+
+  Stratega:
+    Per definire un piano d'azione per la ciabatta a motore, si procederà con la realizzazione di un prototipo e test di funzionalità primarie, seguendo una roadmap che prevede la valutazione della fattibilità tecnica e la definizione di un budget preliminare.  Dobbiamo identificare le specifiche del motore e dei materiali,  per poi definire un processo di produzione e distribuzione.
+
+
+
+Turno 3:
+
+  Minimalista:
+    Realizza un prototipo e testa le funzionalità primarie per definire specifiche del motore e materiali, poi stabilisci un budget preliminare.
+
+
+
+Turno 4:
+
+  Stratega:
+    **Piano d'Azione:**
+
+1.  **Definizione Prototipica:** Iniziare con la creazione di un prototipo di base per valutare la fattibilità dei componenti e l’efficienza del motore.
+2.  **Analisi Budget:** Stabilir una stima preliminare del budget, considerando i costi di materiali, manodopera e componenti necessari.
+
+
+
+Turno 5:
+
+  Minimalista:
+    Progetta un prototipo di base per testare la funzionalità del motore.
+
+
+
+Turno 6:
+
+  Pragmatico:
+    1.  Inizia con un prototipo che includa solo un motore di test e un sistema di monitoraggio della velocità.
+2.  Utilizza un software di prototipazione rapida per velocizzare il processo di test.
+
+
+
+Turno 7:
+
+  SummarizerAgent:
+    L'obiettivo primario è la realizzazione di un prototipo per valutare la fattibilità tecnica del motore e dei materiali, seguiti da una stima preliminare del budget.  Il piano prevede un'iniziale fase di progettazione e test, seguito da un'analisi più approfondita del budget.  Inoltre, si prevede di avviare un processo di prototipazione con un motore di test e un sistema di monitoraggio per definire le specifiche del motore e dei materiali.
+
+
+
+=== Sintesi finale ===
+
+L'obiettivo primario è la realizzazione di un prototipo per valutare la fattibilità tecnica del motore e dei materiali, seguiti da una stima preliminare del budget.  Il piano prevede un'iniziale fase di progettazione e test, seguito da un'analisi più approfondita del budget.  Inoltre, si prevede di avviare un processo di prototipazione con un motore di test e un sistema di monitoraggio per definire le specifiche del motore e dei materiali.
+

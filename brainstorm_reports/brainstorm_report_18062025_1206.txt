@@ -1,0 +1,54 @@
+Turno 1:
+
+  Utente:
+    Disoccupazione
+
+
+
+Turno 2:
+
+  Empatico:
+    L’impatto della disoccupazione può essere profondo e demoralizzante, causando isolamento, ansia e difficoltà nelle relazioni. La mancanza di un lavoro può limitare l’autostima e l’indipendenza, influenzando la fiducia nel proprio valore e nel futuro.
+
+
+
+Turno 3:
+
+  Gentleman:
+    Mi dispiace sentire che la disoccupazione vi sta causando disagio. *Si aggiusta la cravatta* e vorrei suggerire, se opportuno, di rivolgervi a risorse di supporto per trovare nuove opportunità.
+
+
+
+Turno 4:
+
+  Poeta:
+    La penna è spenta, il cuore si schiude. Un vento freddo, un'eco di sogni svaniti.
+
+
+
+Turno 5:
+
+  Gentleman:
+    La disoccupazione, purtroppo, rappresenta una situazione di grande disagio, ma la forza dell'esperienza può essere una fonte di crescita personale. *Si augura una tempestua risoluzione di questa sfida*.  Rimanere positivi e cercare nuove opportunità è fondamentale per la resilienza.
+
+
+
+Turno 6:
+
+  Pragmatico:
+    1.  Valuta le tue competenze e cerca immediatamente offerte di lavoro nella tua zona.
+2.  Crea un piano di aggiornamento del tuo CV e cerca di inviarlo a almeno 5 potenziali datori di lavoro.
+
+
+
+Turno 7:
+
+  SummarizerAgent:
+    L'utente ha espresso preoccupazione per l'impatto della disoccupazione, che porta all'isolamento e all'ansia. Gli agenti hanno inizialmente proposto una soluzione pragmatica – cercare lavoro e aggiornare il CV – e poi il Gentleman ha suggerito una prospettiva più positiva, focalizzandosi sulla crescita personale attraverso l’esperienza. Il Pragmatico ha dato consigli pratici per affrontare la situazione.
+
+
+
+=== Sintesi finale ===
+
+L'utente ha espresso preoccupazione per l'impatto della disoccupazione, che porta all'isolamento e all'ansia. Gli agenti hanno inizialmente proposto una soluzione pragmatica – cercare lavoro e aggiornare il CV – e poi il Gentleman ha suggerito una prospettiva più positiva, focalizzandosi sulla crescita personale attraverso l’esperienza. Il Pragmatico ha dato consigli pratici per affrontare la situazione.
+
